@@ -2,16 +2,15 @@
 
 This is page 2
 
-''''''Python
+````Python
 
 if time < 1200:
     print("Good Morning")
 else:
     print("Good afternoon")  
+```
 
-
-`````
-##Some Maths Equations
+## Some Maths Equations
 
 $$f(x) = x^2 - 2$$
 
