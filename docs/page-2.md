@@ -2,8 +2,7 @@
 
 This is page 2
 
-````Python
-
+```Python
 if time < 1200:
     print("Good Morning")
 else:
