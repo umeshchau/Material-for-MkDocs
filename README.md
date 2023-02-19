@@ -1,5 +1,4 @@
 # Material-for-MkDocs
 
 ````````
-
-# its just a template Repository for documentation
+its just a template Repository for documentation
