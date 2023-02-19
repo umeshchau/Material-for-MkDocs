@@ -3,7 +3,7 @@ site_name: Material-for-MkDocs
 # defeine TOC or order of website-
 nav:
   - Home: index.md
-  - Page - 2.md
+  - Page-2: Page-2.md
 
 site_author: Umesh Chauhan
 site_description: >-
@@ -71,3 +71,4 @@ plugins:
 
 copyright: |
   &copy; 2023 <a href="https://github.com/umeshchau"  target="_blank" rel="noopener">Umesh Chauhan</a>
+
